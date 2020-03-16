@@ -1,0 +1,10 @@
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/bin/Debug/netcoreapp3.1/cSharpTopTrumps.deps.json
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/bin/Debug/netcoreapp3.1/cSharpTopTrumps.runtimeconfig.json
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/bin/Debug/netcoreapp3.1/cSharpTopTrumps.runtimeconfig.dev.json
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/bin/Debug/netcoreapp3.1/cSharpTopTrumps.dll
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/bin/Debug/netcoreapp3.1/cSharpTopTrumps.pdb
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/obj/Debug/netcoreapp3.1/cSharpTopTrumps.csprojAssemblyReference.cache
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/obj/Debug/netcoreapp3.1/cSharpTopTrumps.AssemblyInfoInputs.cache
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/obj/Debug/netcoreapp3.1/cSharpTopTrumps.AssemblyInfo.cs
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/obj/Debug/netcoreapp3.1/cSharpTopTrumps.dll
+/Users/sarahweeks/Desktop/Projects/cSharpTopTrumps/obj/Debug/netcoreapp3.1/cSharpTopTrumps.pdb
